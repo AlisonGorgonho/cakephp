@@ -1,0 +1,12 @@
+{
+    "name": "alison/curso-cakephp",
+    "authors": [
+        {
+            "name": "Alison Gorgonho",
+            "email": "alisongorgonho@gmail.com"
+        }
+    ],
+    "require": {
+            "cakephp/cakephp": "2.5"
+    }
+}
